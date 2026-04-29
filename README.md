@@ -36,6 +36,7 @@ Suggests top 20 movies
 📂 Files
 movie.py → main code
 movies.csv → dataset
+
 💡 Example
 
 Enter your favourite movie name: Avatar
